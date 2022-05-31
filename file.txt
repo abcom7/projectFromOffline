@@ -1,3 +1,4 @@
 {
     "name":"ali",
+    "email":"a@b.c"
 }
